@@ -1,0 +1,78 @@
+Done	stock price information		>>> price  ::Real-time price quote, delayed by up to 20 minutes.
+
+
+Done	market Capitilization 	>>> marketcap
+
+
+Done	Trade Voloume >>> "volume" - The current day's trading volume.
+
+Done	tradetime
+
+
+Done	dividend yield >>> "yieldpct" - The distribution yield, the sum of the prior 12 months' income distributions (stock dividends and fixed income interest payments) and net asset value gains divided by the previous month's net asset value number.
+
+Done	"incomedividend" - The amount of the most recent cash distribution.
+		
+
+Done	Earning per share (EPS)	>>> eps
+
+
+Done	Price-to-Earnings (p/e) Ratio   >>> pe
+
+
+Done	52-Week high   >>> high52
+
+Done	52-week low	>>> low52
+
+
+Done	Beta 	>>> beta
+
+done	 Historical Data
+	>>>
+attribute is one of the following for historical data:
+
+"open" - The opening price for the specified date(s).
+
+"close" - The closing price for the specified date(s).
+
+"high" - The high price for the specified date(s).
+
+"low" - The low price for the specified date(s).
+
+"volume" - The volume for the specified date(s).
+
+"all" - All of the above.
+
+
+start_date - [ OPTIONAL ] - The start date when fetching historical data.
+
+If start_date is specified but end_date|num_days is not, only the single day's data is returned.
+end_date|num_days - [ OPTIONAL ] - The end date when fetching historical data, or the number of days from start_date for which to return data.
+
+interval - [ OPTIONAL ] - The frequency of returned data; either "DAILY" or "WEEKLY".
+
+interval can alternatively be specified as 1 or 7. Other numeric values are disallowed.
+
+
+
+
+
+
+Data Points to Collect:
+
+• For each company, scrape the following data points:
+
+• Current stock price   >>price done  
+
+• Market capitalization >>marketcap done
+
+• Dividend yield >>yieldpct Done
+
+• Price-to-earnings (P/E) ratio >>pe Done
+
+• 52-week high/low >>high52 done >>low52 Done
+
+• Earnings per share (EPS) >>eps Done
+
+• Any other relevant financial metrics available on the page.
+
