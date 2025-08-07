@@ -1,0 +1,138 @@
+{
+    "horse" : [
+        {
+            "title": "",
+            "description": "",
+            "horse_id" : 348639876,
+            "image_link": "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg",
+            "category": "",
+            "color": "",
+            "gender": "",
+            "race": "",
+            "height": "",
+            "suitability": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "education": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "price": 2193480,
+            "age": 2193480,
+            "likes": 2193480,
+            "Location": "",
+            "x_ray": "No",
+            "full_papers": "No"
+        },
+        {
+            "title": "",
+            "description": "",
+            "horse_id" : 348639876,
+            "image_link": "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg",
+            "category": "",
+            "color": "",
+            "gender": "",
+            "race": "",
+            "height": "",
+            "suitability": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "education": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "price": 2193480,
+            "age": 2193480,
+            "likes": 2193480,
+            "Location": "",
+            "x_ray": "Yes",
+            "full_papers": "Yes"
+        }
+    ],
+    "accessory" : [
+        {
+            "title": "",
+            "description": "",
+            "images": [
+                "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg",
+                "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg",
+                "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg"
+            ],
+            "stock_price" : 437846,
+            "sale_price" : 437846,
+            "sizes": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "colors": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "arts": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "count_number" : 23,
+            "sidebar_title" : "",
+            "sidebar_description" : ""
+        },
+        {
+            "title": "",
+            "description": "",
+            "images": [
+                "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg",
+                "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg",
+                "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg"
+            ],
+            "stock_price" : 437846,
+            "sale_price" : 437846,
+            "sizes": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "colors": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "arts": [ "Gross_Revenue", "Cash_Flow", "EBITDA" ],
+            "count_number" : 23,
+            "sidebar_title" : "",
+            "sidebar_description" : ""
+        }
+    ],
+    "supplement" : [
+        {
+            "title": "",
+            "description": "",
+            "images": [
+                "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg",
+                "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg",
+                "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg"
+            ],
+            "offers": [
+                {"weight" : 10, "price" : 1000},
+                {"weight" : 10, "price" : 1000}
+            ],
+            "count_number" : 23,
+            "sidebar_title" : "",
+            "sidebar_description" : ""
+        }
+    ],
+    "herbs" : [
+        {
+            "title": "",
+            "description": "",
+            "image_link": "https://www.bizquest.com/shared/listings/219/2193480/1fdb7a36-37ba-439f-99d5-a5308bc0a4a8-W768.jpg",
+            "offers": [
+                {"offer_name" : "", "price" : 1000},
+                {"offer_name" : "", "price" : 1000}
+            ],
+            "count_number" : 23,
+            "sidebar_title" : "",
+            "sidebar_description" : ""
+        }
+    ],
+    "blog" : [
+        {
+            "blog_category" : "",
+            "reading_time" : 2,
+            "title" : "",
+            "body" : "",
+            "views" : 10,
+            "likes" : 10
+        },
+        {
+            "blog_category" : "",
+            "reading_time" : 2,
+            "title" : "",
+            "body" : "",
+            "views" : 10,
+            "likes" : 10
+        }
+    ],
+    "faqs" : [
+        {
+            "question" : "",
+            "answer" : ""
+        },
+        {
+            "question" : "",
+            "answer" : ""
+        }
+    ]
+}
